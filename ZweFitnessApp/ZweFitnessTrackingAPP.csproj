@@ -1,0 +1,175 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" DefaultTargets="Build">
+  <PropertyGroup>
+    <ProjectGuid>{BC210435-F323-4DD4-A749-B61C0D546252}</ProjectGuid>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>ZweFitnessTrackingAPP</RootNamespace>
+    <AssemblyName>ZweFitnessTrackingAPP</AssemblyName>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Platform)' == 'AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <Prefer32Bit>True</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)' == 'Debug' ">
+    <OutputPath>bin\Debug\</OutputPath>
+    <DebugSymbols>True</DebugSymbols>
+    <DebugType>Full</DebugType>
+    <Optimize>False</Optimize>
+    <CheckForOverflowUnderflow>True</CheckForOverflowUnderflow>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)' == 'Release' ">
+    <OutputPath>bin\Release\</OutputPath>
+    <DebugSymbols>False</DebugSymbols>
+    <DebugType>None</DebugType>
+    <Optimize>True</Optimize>
+    <CheckForOverflowUnderflow>False</CheckForOverflowUnderflow>
+    <DefineConstants>TRACE</DefineConstants>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>projectLogo.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data" />
+    <Reference Include="System.Data.DataSetExtensions">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Xml.Linq">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AerobicClass.cs" />
+    <Compile Include="Customer.cs" />
+    <Compile Include="CyclingClass.cs" />
+    <Compile Include="DBClass.cs" />
+    <Compile Include="FitnessClass.cs" />
+    <Compile Include="GlobalData.cs" />
+    <Compile Include="ListBoxManager.cs" />
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="RopeSkippingClass.cs" />
+    <Compile Include="RunningClass.cs" />
+    <Compile Include="UserAndActivity.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UserAndActivity.Designer.cs">
+      <DependentUpon>UserAndActivity.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Validator.cs" />
+    <Compile Include="ZweFitnessForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ZweFitnessForm.Designer.cs">
+      <DependentUpon>ZweFitnessForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ZweLoginForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ZweLoginForm.Designer.cs">
+      <DependentUpon>ZweLoginForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ZweRegisteringForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ZweRegisteringForm.Designer.cs">
+      <DependentUpon>ZweRegisteringForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ZweStartForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ZweStartForm.Designer.cs">
+      <DependentUpon>ZweStartForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Person.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SwimmingClass.cs" />
+    <Compile Include="WalkingClass.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserAndActivity.resx">
+      <DependentUpon>UserAndActivity.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ZweFitnessForm.resx">
+      <DependentUpon>ZweFitnessForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ZweLoginForm.resx">
+      <DependentUpon>ZweLoginForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ZweRegisteringForm.resx">
+      <DependentUpon>ZweRegisteringForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ZweStartForm.resx">
+      <DependentUpon>ZweStartForm.cs</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\images\start_form_bg.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\images\startFormBg%28dark%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\images\Free Photo Muscular man doing weightlifting in fitness center.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\images\How to Sculpt a Strong Upper Body Without Bulking Up.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\images\swimming.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\images\walkingPic.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\images\cyclingPic.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\images\runningPic.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\images\ropeJumpingPic.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\images\aerobicPic.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\images\aerobicPic%28removeBg%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\images\One Step At A Time .jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\images\Premium Vector Abstract fitness man doing barbell exercise.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\images\Vector_push_up_removeBg.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="projectLogo.ico" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

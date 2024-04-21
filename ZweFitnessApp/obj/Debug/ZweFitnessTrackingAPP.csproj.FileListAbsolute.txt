@@ -1,0 +1,91 @@
+D:\Yaphets\SFU\NCC lvl 4\Assignments 2nd Sem\DDOOCPSampleV3\obj\Debug\ZweFitnessTrackingAPP.csproj.AssemblyReference.cache
+D:\Yaphets\SFU\NCC lvl 4\Assignments 2nd Sem\DDOOCPSampleV3\obj\Debug\ZweFitnessTrackingAPP.ZweFitnessTrackingForm.resources
+D:\Yaphets\SFU\NCC lvl 4\Assignments 2nd Sem\DDOOCPSampleV3\obj\Debug\ZweFitnessTrackingAPP.ZweLoginForm.resources
+D:\Yaphets\SFU\NCC lvl 4\Assignments 2nd Sem\DDOOCPSampleV3\obj\Debug\ZweFitnessTrackingAPP.ZweRegistrationForm.resources
+D:\Yaphets\SFU\NCC lvl 4\Assignments 2nd Sem\DDOOCPSampleV3\obj\Debug\ZweFitnessTrackingAPP.frmZweStart.resources
+D:\Yaphets\SFU\NCC lvl 4\Assignments 2nd Sem\DDOOCPSampleV3\obj\Debug\ZweFitnessTrackingAPP.csproj.GenerateResource.cache
+D:\Yaphets\SFU\NCC lvl 4\Assignments 2nd Sem\DDOOCPSampleV3\obj\Debug\ZweFitnessTrackingAPP.csproj.CoreCompileInputs.cache
+D:\Yaphets\SFU\NCC lvl 4\Assignments 2nd Sem\DDOOCPSampleV3\bin\Debug\ZweFitnessTrackingAPP.exe.config
+D:\Yaphets\SFU\NCC lvl 4\Assignments 2nd Sem\DDOOCPSampleV3\bin\Debug\ZweFitnessTrackingAPP.exe
+D:\Yaphets\SFU\NCC lvl 4\Assignments 2nd Sem\DDOOCPSampleV3\bin\Debug\ZweFitnessTrackingAPP.pdb
+D:\Yaphets\SFU\NCC lvl 4\Assignments 2nd Sem\DDOOCPSampleV3\obj\Debug\ZweFitnessTrackingAPP.exe
+D:\Yaphets\SFU\NCC lvl 4\Assignments 2nd Sem\DDOOCPSampleV3\obj\Debug\ZweFitnessTrackingAPP.pdb
+D:\Yaphets\SFU\NCC lvl 4\Assignments 2nd Sem\Zwe_Khant_Aung_P00202709_DDOOCP\bin\Debug\ZweFitnessTrackingAPP.exe.config
+D:\Yaphets\SFU\NCC lvl 4\Assignments 2nd Sem\Zwe_Khant_Aung_P00202709_DDOOCP\bin\Debug\ZweFitnessTrackingAPP.exe
+D:\Yaphets\SFU\NCC lvl 4\Assignments 2nd Sem\Zwe_Khant_Aung_P00202709_DDOOCP\bin\Debug\ZweFitnessTrackingAPP.pdb
+D:\Yaphets\SFU\NCC lvl 4\Assignments 2nd Sem\Zwe_Khant_Aung_P00202709_DDOOCP\obj\Debug\ZweFitnessTrackingAPP.csproj.AssemblyReference.cache
+D:\Yaphets\SFU\NCC lvl 4\Assignments 2nd Sem\Zwe_Khant_Aung_P00202709_DDOOCP\obj\Debug\ZweFitnessTrackingAPP.ZweFitnessTrackingForm.resources
+D:\Yaphets\SFU\NCC lvl 4\Assignments 2nd Sem\Zwe_Khant_Aung_P00202709_DDOOCP\obj\Debug\ZweFitnessTrackingAPP.ZweLoginForm.resources
+D:\Yaphets\SFU\NCC lvl 4\Assignments 2nd Sem\Zwe_Khant_Aung_P00202709_DDOOCP\obj\Debug\ZweFitnessTrackingAPP.ZweRegistrationForm.resources
+D:\Yaphets\SFU\NCC lvl 4\Assignments 2nd Sem\Zwe_Khant_Aung_P00202709_DDOOCP\obj\Debug\ZweFitnessTrackingAPP.frmZweStart.resources
+D:\Yaphets\SFU\NCC lvl 4\Assignments 2nd Sem\Zwe_Khant_Aung_P00202709_DDOOCP\obj\Debug\ZweFitnessTrackingAPP.csproj.GenerateResource.cache
+D:\Yaphets\SFU\NCC lvl 4\Assignments 2nd Sem\Zwe_Khant_Aung_P00202709_DDOOCP\obj\Debug\ZweFitnessTrackingAPP.csproj.CoreCompileInputs.cache
+D:\Yaphets\SFU\NCC lvl 4\Assignments 2nd Sem\Zwe_Khant_Aung_P00202709_DDOOCP\obj\Debug\ZweFitnessTrackingAPP.exe
+D:\Yaphets\SFU\NCC lvl 4\Assignments 2nd Sem\Zwe_Khant_Aung_P00202709_DDOOCP\obj\Debug\ZweFitnessTrackingAPP.pdb
+D:\Yaphets\SFU\NCC lvl 4\Assignments 2nd Sem\Zwe_Khant_Aung_P00202709_DDOOCP\ZweFitnessApp\bin\Debug\ZweFitnessTrackingAPP.exe.config
+D:\Yaphets\SFU\NCC lvl 4\Assignments 2nd Sem\Zwe_Khant_Aung_P00202709_DDOOCP\ZweFitnessApp\bin\Debug\ZweFitnessTrackingAPP.exe
+D:\Yaphets\SFU\NCC lvl 4\Assignments 2nd Sem\Zwe_Khant_Aung_P00202709_DDOOCP\ZweFitnessApp\bin\Debug\ZweFitnessTrackingAPP.pdb
+D:\Yaphets\SFU\NCC lvl 4\Assignments 2nd Sem\Zwe_Khant_Aung_P00202709_DDOOCP\ZweFitnessApp\obj\Debug\ZweFitnessTrackingAPP.csproj.AssemblyReference.cache
+D:\Yaphets\SFU\NCC lvl 4\Assignments 2nd Sem\Zwe_Khant_Aung_P00202709_DDOOCP\ZweFitnessApp\obj\Debug\ZweFitnessTrackingAPP.ZweFitnessTrackingForm.resources
+D:\Yaphets\SFU\NCC lvl 4\Assignments 2nd Sem\Zwe_Khant_Aung_P00202709_DDOOCP\ZweFitnessApp\obj\Debug\ZweFitnessTrackingAPP.ZweLoginForm.resources
+D:\Yaphets\SFU\NCC lvl 4\Assignments 2nd Sem\Zwe_Khant_Aung_P00202709_DDOOCP\ZweFitnessApp\obj\Debug\ZweFitnessTrackingAPP.ZweRegistrationForm.resources
+D:\Yaphets\SFU\NCC lvl 4\Assignments 2nd Sem\Zwe_Khant_Aung_P00202709_DDOOCP\ZweFitnessApp\obj\Debug\ZweFitnessTrackingAPP.frmZweStart.resources
+D:\Yaphets\SFU\NCC lvl 4\Assignments 2nd Sem\Zwe_Khant_Aung_P00202709_DDOOCP\ZweFitnessApp\obj\Debug\ZweFitnessTrackingAPP.csproj.GenerateResource.cache
+D:\Yaphets\SFU\NCC lvl 4\Assignments 2nd Sem\Zwe_Khant_Aung_P00202709_DDOOCP\ZweFitnessApp\obj\Debug\ZweFitnessTrackingAPP.csproj.CoreCompileInputs.cache
+D:\Yaphets\SFU\NCC lvl 4\Assignments 2nd Sem\Zwe_Khant_Aung_P00202709_DDOOCP\ZweFitnessApp\obj\Debug\ZweFitnessTrackingAPP.exe
+D:\Yaphets\SFU\NCC lvl 4\Assignments 2nd Sem\Zwe_Khant_Aung_P00202709_DDOOCP\ZweFitnessApp\obj\Debug\ZweFitnessTrackingAPP.pdb
+C:\Users\LENOVO\Desktop\ZweFitnessApp\bin\Debug\ZweFitnessTrackingAPP.exe.config
+C:\Users\LENOVO\Desktop\ZweFitnessApp\bin\Debug\ZweFitnessTrackingAPP.exe
+C:\Users\LENOVO\Desktop\ZweFitnessApp\bin\Debug\ZweFitnessTrackingAPP.pdb
+C:\Users\LENOVO\Desktop\ZweFitnessApp\obj\Debug\ZweFitnessTrackingAPP.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\ZweFitnessApp\obj\Debug\ZweFitnessTrackingAPP.ZweFitnessTrackingForm.resources
+C:\Users\LENOVO\Desktop\ZweFitnessApp\obj\Debug\ZweFitnessTrackingAPP.ZweLoginForm.resources
+C:\Users\LENOVO\Desktop\ZweFitnessApp\obj\Debug\ZweFitnessTrackingAPP.ZweRegistrationForm.resources
+C:\Users\LENOVO\Desktop\ZweFitnessApp\obj\Debug\ZweFitnessTrackingAPP.frmZweStart.resources
+C:\Users\LENOVO\Desktop\ZweFitnessApp\obj\Debug\ZweFitnessTrackingAPP.csproj.GenerateResource.cache
+C:\Users\LENOVO\Desktop\ZweFitnessApp\obj\Debug\ZweFitnessTrackingAPP.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\ZweFitnessApp\obj\Debug\ZweFitnessTrackingAPP.exe
+C:\Users\LENOVO\Desktop\ZweFitnessApp\obj\Debug\ZweFitnessTrackingAPP.pdb
+D:\Yaphets\SFU\NCC lvl 4\Assignments 2nd Sem\Zwe_Khant_Aung_P00202709_DDOOCP\ZweFitnessApp(most stable version)\bin\Debug\ZweFitnessTrackingAPP.exe.config
+D:\Yaphets\SFU\NCC lvl 4\Assignments 2nd Sem\Zwe_Khant_Aung_P00202709_DDOOCP\ZweFitnessApp(most stable version)\bin\Debug\ZweFitnessTrackingAPP.exe
+D:\Yaphets\SFU\NCC lvl 4\Assignments 2nd Sem\Zwe_Khant_Aung_P00202709_DDOOCP\ZweFitnessApp(most stable version)\bin\Debug\ZweFitnessTrackingAPP.pdb
+D:\Yaphets\SFU\NCC lvl 4\Assignments 2nd Sem\Zwe_Khant_Aung_P00202709_DDOOCP\ZweFitnessApp(most stable version)\obj\Debug\ZweFitnessTrackingAPP.csproj.AssemblyReference.cache
+D:\Yaphets\SFU\NCC lvl 4\Assignments 2nd Sem\Zwe_Khant_Aung_P00202709_DDOOCP\ZweFitnessApp(most stable version)\obj\Debug\ZweFitnessTrackingAPP.ZweFitnessTrackingForm.resources
+D:\Yaphets\SFU\NCC lvl 4\Assignments 2nd Sem\Zwe_Khant_Aung_P00202709_DDOOCP\ZweFitnessApp(most stable version)\obj\Debug\ZweFitnessTrackingAPP.ZweLoginForm.resources
+D:\Yaphets\SFU\NCC lvl 4\Assignments 2nd Sem\Zwe_Khant_Aung_P00202709_DDOOCP\ZweFitnessApp(most stable version)\obj\Debug\ZweFitnessTrackingAPP.ZweRegistrationForm.resources
+D:\Yaphets\SFU\NCC lvl 4\Assignments 2nd Sem\Zwe_Khant_Aung_P00202709_DDOOCP\ZweFitnessApp(most stable version)\obj\Debug\ZweFitnessTrackingAPP.frmZweStart.resources
+D:\Yaphets\SFU\NCC lvl 4\Assignments 2nd Sem\Zwe_Khant_Aung_P00202709_DDOOCP\ZweFitnessApp(most stable version)\obj\Debug\ZweFitnessTrackingAPP.csproj.GenerateResource.cache
+D:\Yaphets\SFU\NCC lvl 4\Assignments 2nd Sem\Zwe_Khant_Aung_P00202709_DDOOCP\ZweFitnessApp(most stable version)\obj\Debug\ZweFitnessTrackingAPP.csproj.CoreCompileInputs.cache
+D:\Yaphets\SFU\NCC lvl 4\Assignments 2nd Sem\Zwe_Khant_Aung_P00202709_DDOOCP\ZweFitnessApp(most stable version)\obj\Debug\ZweFitnessTrackingAPP.exe
+D:\Yaphets\SFU\NCC lvl 4\Assignments 2nd Sem\Zwe_Khant_Aung_P00202709_DDOOCP\ZweFitnessApp(most stable version)\obj\Debug\ZweFitnessTrackingAPP.pdb
+D:\Yaphets\SFU\NCC lvl 4\Assignments 2nd Sem\Zwe_Khant_Aung_P00202709_DDOOCP\ZweFitnessApp(most stable version)\obj\Debug\ZweFitnessTrackingAPP.Properties.Resources.resources
+D:\Yaphets\SFU\NCC lvl 4\Assignments 2nd Sem\Zwe_Khant_Aung_P00202709_DDOOCP\ZweFitnessApp\obj\Debug\ZweFitnessTrackingAPP.Properties.Resources.resources
+D:\Yaphets\SFU\NCC lvl 4\Assignments 2nd Sem\Zwe_Khant_Aung_P00202709_DDOOCP\ZweFitnessApp\obj\Debug\ZweFitnessTrackingAPP.UserAndActivity.resources
+D:\Yaphets\SFU\NCC lvl 4\Assignments 2nd Sem\Zwe_Khant_Aung_202709_DDOOCP(Stable)\ZweFitnessApp\bin\Debug\ZweFitnessTrackingAPP.exe.config
+D:\Yaphets\SFU\NCC lvl 4\Assignments 2nd Sem\Zwe_Khant_Aung_202709_DDOOCP(Stable)\ZweFitnessApp\bin\Debug\ZweFitnessTrackingAPP.exe
+D:\Yaphets\SFU\NCC lvl 4\Assignments 2nd Sem\Zwe_Khant_Aung_202709_DDOOCP(Stable)\ZweFitnessApp\bin\Debug\ZweFitnessTrackingAPP.pdb
+D:\Yaphets\SFU\NCC lvl 4\Assignments 2nd Sem\Zwe_Khant_Aung_202709_DDOOCP(Stable)\ZweFitnessApp\obj\Debug\ZweFitnessTrackingAPP.csproj.AssemblyReference.cache
+D:\Yaphets\SFU\NCC lvl 4\Assignments 2nd Sem\Zwe_Khant_Aung_202709_DDOOCP(Stable)\ZweFitnessApp\obj\Debug\ZweFitnessTrackingAPP.Properties.Resources.resources
+D:\Yaphets\SFU\NCC lvl 4\Assignments 2nd Sem\Zwe_Khant_Aung_202709_DDOOCP(Stable)\ZweFitnessApp\obj\Debug\ZweFitnessTrackingAPP.UserAndActivity.resources
+D:\Yaphets\SFU\NCC lvl 4\Assignments 2nd Sem\Zwe_Khant_Aung_202709_DDOOCP(Stable)\ZweFitnessApp\obj\Debug\ZweFitnessTrackingAPP.ZweFitnessTrackingForm.resources
+D:\Yaphets\SFU\NCC lvl 4\Assignments 2nd Sem\Zwe_Khant_Aung_202709_DDOOCP(Stable)\ZweFitnessApp\obj\Debug\ZweFitnessTrackingAPP.ZweLoginForm.resources
+D:\Yaphets\SFU\NCC lvl 4\Assignments 2nd Sem\Zwe_Khant_Aung_202709_DDOOCP(Stable)\ZweFitnessApp\obj\Debug\ZweFitnessTrackingAPP.ZweRegistrationForm.resources
+D:\Yaphets\SFU\NCC lvl 4\Assignments 2nd Sem\Zwe_Khant_Aung_202709_DDOOCP(Stable)\ZweFitnessApp\obj\Debug\ZweFitnessTrackingAPP.frmZweStart.resources
+D:\Yaphets\SFU\NCC lvl 4\Assignments 2nd Sem\Zwe_Khant_Aung_202709_DDOOCP(Stable)\ZweFitnessApp\obj\Debug\ZweFitnessTrackingAPP.csproj.GenerateResource.cache
+D:\Yaphets\SFU\NCC lvl 4\Assignments 2nd Sem\Zwe_Khant_Aung_202709_DDOOCP(Stable)\ZweFitnessApp\obj\Debug\ZweFitnessTrackingAPP.csproj.CoreCompileInputs.cache
+D:\Yaphets\SFU\NCC lvl 4\Assignments 2nd Sem\Zwe_Khant_Aung_202709_DDOOCP(Stable)\ZweFitnessApp\obj\Debug\ZweFitnessTrackingAPP.exe
+D:\Yaphets\SFU\NCC lvl 4\Assignments 2nd Sem\Zwe_Khant_Aung_202709_DDOOCP(Stable)\ZweFitnessApp\obj\Debug\ZweFitnessTrackingAPP.pdb
+D:\Yaphets\SFU\NCC lvl 4\Assignments 2nd Sem\Zwe_Khant_Aung_202709_DDOOCP\ZweFitnessApp\bin\Debug\ZweFitnessTrackingAPP.exe.config
+D:\Yaphets\SFU\NCC lvl 4\Assignments 2nd Sem\Zwe_Khant_Aung_202709_DDOOCP\ZweFitnessApp\bin\Debug\ZweFitnessTrackingAPP.exe
+D:\Yaphets\SFU\NCC lvl 4\Assignments 2nd Sem\Zwe_Khant_Aung_202709_DDOOCP\ZweFitnessApp\bin\Debug\ZweFitnessTrackingAPP.pdb
+D:\Yaphets\SFU\NCC lvl 4\Assignments 2nd Sem\Zwe_Khant_Aung_202709_DDOOCP\ZweFitnessApp\obj\Debug\ZweFitnessTrackingAPP.csproj.AssemblyReference.cache
+D:\Yaphets\SFU\NCC lvl 4\Assignments 2nd Sem\Zwe_Khant_Aung_202709_DDOOCP\ZweFitnessApp\obj\Debug\ZweFitnessTrackingAPP.Properties.Resources.resources
+D:\Yaphets\SFU\NCC lvl 4\Assignments 2nd Sem\Zwe_Khant_Aung_202709_DDOOCP\ZweFitnessApp\obj\Debug\ZweFitnessTrackingAPP.UserAndActivity.resources
+D:\Yaphets\SFU\NCC lvl 4\Assignments 2nd Sem\Zwe_Khant_Aung_202709_DDOOCP\ZweFitnessApp\obj\Debug\ZweFitnessTrackingAPP.ZweFitnessTrackingForm.resources
+D:\Yaphets\SFU\NCC lvl 4\Assignments 2nd Sem\Zwe_Khant_Aung_202709_DDOOCP\ZweFitnessApp\obj\Debug\ZweFitnessTrackingAPP.ZweLoginForm.resources
+D:\Yaphets\SFU\NCC lvl 4\Assignments 2nd Sem\Zwe_Khant_Aung_202709_DDOOCP\ZweFitnessApp\obj\Debug\ZweFitnessTrackingAPP.ZweRegistrationForm.resources
+D:\Yaphets\SFU\NCC lvl 4\Assignments 2nd Sem\Zwe_Khant_Aung_202709_DDOOCP\ZweFitnessApp\obj\Debug\ZweFitnessTrackingAPP.frmZweStart.resources
+D:\Yaphets\SFU\NCC lvl 4\Assignments 2nd Sem\Zwe_Khant_Aung_202709_DDOOCP\ZweFitnessApp\obj\Debug\ZweFitnessTrackingAPP.csproj.GenerateResource.cache
+D:\Yaphets\SFU\NCC lvl 4\Assignments 2nd Sem\Zwe_Khant_Aung_202709_DDOOCP\ZweFitnessApp\obj\Debug\ZweFitnessTrackingAPP.csproj.CoreCompileInputs.cache
+D:\Yaphets\SFU\NCC lvl 4\Assignments 2nd Sem\Zwe_Khant_Aung_202709_DDOOCP\ZweFitnessApp\obj\Debug\ZweFitnessTrackingAPP.exe
+D:\Yaphets\SFU\NCC lvl 4\Assignments 2nd Sem\Zwe_Khant_Aung_202709_DDOOCP\ZweFitnessApp\obj\Debug\ZweFitnessTrackingAPP.pdb
